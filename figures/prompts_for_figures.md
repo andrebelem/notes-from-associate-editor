@@ -6,7 +6,7 @@ This document contains the prompts used to generate the figures in this reposito
 
 ## Figure 1 — Editorial Workflow
 
-**File:** figures/workflow_editorial.png
+**File:** figures/01_workflow_editorial.png
 
 **Prompt version:** v1.0
 
@@ -55,7 +55,7 @@ No people in the image.
 
 ## Figure 2 — Editorial Workflow with AI Support
 
-**File:** figures/workflow_ai_support.png
+**File:** figures/02_workflow_ai_support.png
 
 **Prompt version:** v1.0
 
@@ -116,6 +116,70 @@ Very important:
 The AI elements should look like annotations or assistance, not replacing the workflow.
 
 ---
+
+## Figure 3 — Why Open Science Matters
+
+**File:** figures/03_workflow_openscience.png
+
+**Prompt version:** v1.0
+
+Hand-drawn scientific workflow sketch on a notebook page, similar to a scientist’s notes, showing the role of an Associate Editor in promoting open science and FAIR data practices during the editorial process.
+Title at the top:
+"Associate Editor – Open Science and FAIR Workflow"
+Main flowchart:
+"Manuscript Submission" →
+"Scope Check (journal fit)" →
+"Initial Read" →
+"Data Availability Statement Check" →
+"Materials and Methods Transparency" →
+"FAIR Assessment" →
+"Repository / Accession Verification" →
+"Ethics and Privacy Restrictions" →
+"Reviewer Evaluation of Transparency" →
+"Editorial Assessment" →
+"Decision Recommendation"
+Add subtle handwritten support notes next to some boxes:
+Near "Data Availability Statement Check":
+"open data policy / statement completeness"
+Near "Materials and Methods Transparency":
+"enough detail to reproduce?"
+Near "FAIR Assessment":
+"Findable / Accessible / Interoperable / Reusable"
+Near "Repository / Accession Verification":
+"public repository? stable link? accession number?"
+Near "Ethics and Privacy Restrictions":
+"Ethics / legal limits / managed access"
+Near "Reviewer Evaluation of Transparency":
+"can reviewers trace evidence?"
+Near "Editorial Assessment":
+"open science strengthens trust"
+Include small hand-drawn icons and doodles:
+
+open padlock
+database cylinder
+folder with label “data”
+small network nodes
+document page
+magnifying glass
+coffee cup
+laptop
+tiny repository cloud icon
+You may include 2 or 3 small hand-drawn human figures in a minimalist sketch style, such as:
+
+one researcher submitting a manuscript
+one editor reading notes
+one reviewer checking data on a laptop
+The people should remain secondary and subtle, not cartoonish, matching the same black-ink notebook aesthetic.
+Style:
+
+black ink pen drawing
+notebook paper texture
+slightly imperfect hand-drawn lines
+arrows, boxes, handwritten annotations
+minimalist academic sketch style
+clean layout, similar to a scientist’s personal notebook
+include a small handwritten note on the side: "daily editorial work"
+keep the overall composition visually similar to an editorial workflow sketch
 
 ## Notes
 
