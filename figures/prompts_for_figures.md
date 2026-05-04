@@ -181,6 +181,125 @@ clean layout, similar to a scientist’s personal notebook
 include a small handwritten note on the side: "daily editorial work"
 keep the overall composition visually similar to an editorial workflow sketch
 
+---
+
+## Figure 4 — Why do reviewers sometimes take time?
+
+**File:** figures/04_workflow_peerreview_delays.png
+
+**Prompt version:** v1.0
+
+Using the same style as before, create a clean hand-drawn academic workflow sketch on a white notebook page with spiral binding on the left, in black ink only, with a neat and organized layout similar to a scientist’s notebook diagram.
+
+The style should be minimalist, structured, and readable, with:
+rectangular workflow boxes with clean handwritten text
+thin black arrows connecting the steps
+small, simple human figures drawn in black ink
+subtle academic doodles such as a coffee cup, laptop, calendar, email icon, paper sheets
+balanced spacing and a professional notebook aesthetic
+no messy sketching, no excessive decoration, no color
+the overall composition should feel like a polished hand-drawn editorial workflow diagram
+
+Title at the top:
+"Associate Editor – Why Peer Review Sometimes Takes Time"
+Layout:
+Use a horizontal workflow across the page, with the main editorial process in connected boxes, and small side notes showing the perspectives of authors, editor, and reviewers.
+
+Main workflow boxes:
+"Manuscript Submission" →
+"Invite Reviewers" →
+"Waiting for Replies" →
+"Reminder Sent" →
+"Still No Response?" →
+"Find New Reviewer" →
+"Review Arrives" →
+"Editorial Assessment" →
+"Decision Recommendation"
+
+Add small handwritten annotations near selected boxes:
+
+Near "Invite Reviewers":
+"specialized topic = harder to find reviewers"
+
+Near "Waiting for Replies":
+"voluntary work"
+"not always a lack of interest"
+
+Near "Reminder Sent":
+"editor follows up"
+"trying to avoid unnecessary delays"
+
+Near "Still No Response?":
+"long delay"
+"replacement reviewer may be needed"
+
+Near "Review Arrives":
+"some reviews are thoughtful"
+"some are too superficial"
+
+Near "Editorial Assessment":
+"fair process depends on active judgment"
+
+Add three small perspective areas with simple human figures:
+Author perspective, placed on one side of the page:
+A seated author checking email beside a manuscript.
+
+Add notes:
+"waiting for update"
+"frustration is understandable"
+
+Editor perspective, near the center:
+A small editor figure at a desk with laptop, coffee cup, and reviewer invitations.
+
+Add notes:
+"not editorial inertia"
+"many invitations, few responses"
+"need proactive reviewers"
+
+Reviewer perspective, on the other side:
+Two or three small reviewer figures:
+one carefully reading and annotating a manuscript
+one overloaded with stacked papers
+one sending back a very short review
+
+Add notes:
+"careful review takes time"
+"done on top of everything else"
+"low-effort review helps no one"
+
+Important visual emphasis:
+Show a contrast between one detailed review and one shallow review.
+The detailed review can have visible notes like:
+"methods?"
+"data support?"
+"literature?"
+
+The shallow review can be shown as a tiny sheet with only a few short bullet points.
+Add small icons and doodles around the page:
+coffee cup
+laptop
+calendar
+email envelope
+manuscript pages
+clock or hourglass
+small note sheet
+
+Add a small handwritten side note:
+"daily editorial work"
+Add a concluding handwritten sentence near the bottom:
+"Speed matters, but scientific quality matters more."
+
+Style requirements:
+black ink pen only
+white notebook paper background
+spiral notebook binding visible on the left
+neat hand-drawn academic style
+legible handwritten text
+simple monochrome line art
+organized composition with clear sections
+subtle human presence, but the workflow remains the main focus
+visually similar to a polished notebook diagram, not a messy sketch
+
 ## Notes
 
 All figures were generated using AI tools based on original conceptual design and editorial experience. Prompts may evolve over time as the project develops.
