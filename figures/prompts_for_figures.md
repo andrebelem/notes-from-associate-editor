@@ -303,3 +303,119 @@ visually similar to a polished notebook diagram, not a messy sketch
 ## Notes
 
 All figures were generated using AI tools based on original conceptual design and editorial experience. Prompts may evolve over time as the project develops.
+
+---
+## Figure 5 — How Editors Choose Reviewers
+
+**File:** figures/05_workflow_reviewer_selection.png
+
+**Prompt version:** v1.0
+
+Hand-drawn scientific workflow sketch on a notebook page, similar to a scientist’s notes, showing how an Associate Editor chooses reviewers in a scientific publishing system that is not always fully transparent. The image should reflect both the obscurity of the process and the value of constructive criticism.
+
+Title at the top:
+"Associate Editor – How Editors Choose Reviewers"
+
+Main flowchart:
+"Manuscript Submission" →
+"Initial Read" →
+"Scope and Expertise Check" →
+"Search for Potential Reviewers" →
+"Conflict of Interest Check" →
+"Balance of Perspectives" →
+"Reviewer Invitation" →
+"Reviews Arrive" →
+"Constructive Critique or Hidden Bias?" →
+"Editorial Judgment"
+
+Add subtle handwritten support notes next to some boxes:
+
+Near "Initial Read":
+"what expertise is really needed?"
+
+Near "Scope and Expertise Check":
+"subject fit / technical competence"
+
+Near "Search for Potential Reviewers":
+"past publications / real expertise / availability"
+
+Near "Conflict of Interest Check":
+"obvious conflicts?"
+"hidden interests?"
+
+Near "Balance of Perspectives":
+"not only famous names"
+"fairness / competence / balance"
+
+Near "Reviews Arrive":
+"helpful criticism?"
+"hostility?"
+"too generic?"
+"overly positive?"
+
+Near "Constructive Critique or Hidden Bias?":
+"real critique improves the work"
+"superficial review helps no one"
+
+Near "Editorial Judgment":
+"trying to protect fairness in an imperfect system"
+
+Include small hand-drawn icons and doodles:
+
+* magnifying glass
+* manuscript pages
+* reviewer cards
+* laptop
+* coffee cup
+* balance scale
+* question mark
+* small eye icon partly shaded
+* envelope or email icon
+* lightbulb near "constructive critique"
+* small dark cloud or shaded corner near "hidden bias"
+
+You may include 2 or 3 small hand-drawn human figures in a minimalist sketch style, such as:
+
+* one editor reading the manuscript and comparing reviewer options
+* one reviewer writing detailed comments
+* one reviewer returning a very short or vague response
+* optionally, one author figure reading comments with mixed emotions
+
+The people should remain secondary and subtle, not cartoonish, matching the same black-ink notebook aesthetic.
+
+Important visual contrast:
+Show two different kinds of review outcomes:
+
+1. A constructive review, with visible handwritten notes like:
+   "methods unclear"
+   "good point"
+   "needs stronger evidence"
+   "relevant literature missing"
+2. A questionable review, shown as either:
+
+* a harsh, vague note
+* or a very short positive note with little substance
+
+This contrast should visually suggest that not all reviews are equally trustworthy, and that both hostility and superficial positivity can be problematic.
+
+Add a small handwritten reflective note somewhere on the page:
+"Editors know the reviewers, but not everything behind the review."
+
+Add another small note near the lower part of the page:
+"Learn from real critique. Do not be defined by hidden bias."
+
+Style:
+
+* black ink pen drawing
+* notebook paper texture
+* slightly imperfect hand-drawn lines
+* arrows, boxes, handwritten annotations
+* minimalist academic sketch style
+* clean layout, similar to a scientist’s personal notebook
+* subtle light shading allowed in a few areas to suggest obscurity
+* keep the overall composition visually similar to an editorial workflow sketch
+* include a small handwritten note on the side: "daily editorial work"
+
+## Notes
+
+All figures were generated using AI tools based on original conceptual design and editorial experience. Prompts may evolve over time as the project develops.
