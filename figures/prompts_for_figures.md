@@ -419,3 +419,125 @@ Style:
 ## Notes
 
 All figures were generated using AI tools based on original conceptual design and editorial experience. Prompts may evolve over time as the project develops.
+
+---
+
+## Figure 06 — The Most Common Submission Mistakes
+
+**File:** figures/06_submission_mistakes_checklist.png
+
+**Prompt version:** v1.0
+
+Hand-drawn scientific sketch on a notebook page, similar to a scientist’s notes, showing an author preparing a manuscript for submission and mentally checking the most common mistakes to avoid. The figure should look like a clean academic notebook illustration, with the author at the center and several thought bubbles or checklist-style notes around them.
+
+Title at the top:
+"Associate Editor – The Most Common Submission Mistakes"
+
+Main visual concept:
+Place one small hand-drawn author figure in the center, sitting at a desk with a laptop and manuscript pages, preparing a paper for submission.
+
+Around the author, create several thought bubbles, checklist boxes, or small note boxes connected visually to the author, each representing a common submission mistake to avoid.
+
+Main checklist / thought bubbles:
+
+"Scope fit?"
+small note:
+"is this the right journal or section?"
+
+"Title / Abstract / Results aligned?"
+small note:
+"does the paper deliver what it promises?"
+
+"Overstatement?"
+small note:
+"are conclusions stronger than the data?"
+
+"Methods clear and proportional?"
+small note:
+"clear enough to evaluate?"
+"not inflated?"
+
+"FAIR data?"
+small note:
+"findable"
+"accessible"
+"interoperable"
+"reusable"
+
+"Data shared?"
+small note:
+"public repository?"
+"can others reproduce the work?"
+
+"Balanced manuscript?"
+small note:
+"introduction too long?"
+"results / discussion too short?"
+
+"AI-polished text?"
+small note:
+"grammar improved"
+"but is the reasoning solid?"
+
+Add a small handwritten checklist near the desk:
+Before submission:
+✓ scope
+✓ coherence
+✓ methods
+✓ data
+✓ balance
+✓ claims
+
+Include subtle supporting notes around the page:
+
+Near "Overstatement":
+"claims must match evidence"
+
+Near "Methods clear and proportional?":
+"not just detailed, but appropriate"
+
+Near "FAIR data?":
+"transparency strengthens trust"
+
+Near "Balanced manuscript?":
+"paper not fully mature?"
+
+Near "AI-polished text?":
+"smoother language is not enough"
+
+Add small hand-drawn icons and doodles:
+- manuscript pages
+- laptop
+- coffee cup
+- magnifying glass
+- checklist sheet
+- folder labeled “data”
+- small repository/cloud icon
+- pencil or pen
+- exclamation mark near “overstatement”
+- small lightbulb near “clarity”
+
+You may include one or two very small secondary human figures if desired, such as:
+- a tiny editor figure in the corner reading the manuscript
+- a tiny reviewer icon or silhouette
+
+But the author should clearly remain the central figure.
+
+Important visual tone:
+The image should feel practical and reflective, like an author’s pre-submission mental checklist. It should not feel punitive. The purpose is to help avoid mistakes and strengthen the manuscript before submission.
+
+Style:
+- black ink pen drawing
+- notebook paper texture
+- slightly imperfect hand-drawn lines
+- arrows, boxes, handwritten annotations, and thought bubbles
+- minimalist academic sketch style
+- clean layout with plenty of white space
+- organized and visually light
+- similar in style to a polished notebook workflow sketch
+- include a small handwritten note on the side: "before submission"
+- keep the overall composition visually similar to the previous figures in the series
+
+## Notes
+
+All figures were generated using AI tools based on original conceptual design and editorial experience. Prompts may evolve over time as the project develops.
